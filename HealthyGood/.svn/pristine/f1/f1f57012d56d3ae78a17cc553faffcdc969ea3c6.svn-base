@@ -1,0 +1,55 @@
+//
+//  FindPageViewController.m
+//  HealthyGood
+//
+//  Created by Qianfeng on 16/2/24.
+//  Copyright © 2016年 ZhouShuYang. All rights reserved.
+//
+
+#import "FindPageViewController.h"
+
+@interface FindPageViewController ()<UIScrollViewDelegate>
+
+@end
+
+@implementation FindPageViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    self.view.backgroundColor = [UIColor whiteColor];
+    [self customNavagationBar];
+    [self creatScrollerView];
+}
+- (void)creatScrollerView {
+
+}
+
+
+
+- (void)customNavagationBar {
+    self.navigationController.navigationBar.translucent = NO;
+    self.navigationController.navigationBar.barTintColor = [UIColor colorWithRed:66.0/255.0 green:190.0/255.0 blue:127.0/255.0 alpha:1];
+    UIButton *butn = [[UIButton alloc]initWithFrame:CGRectMake(0, 0, 100, 50)];
+    [butn setTitle:@"健康养生" forState:UIControlStateNormal];
+    butn.tintColor = [UIColor whiteColor];
+    butn.titleLabel.font = [UIFont systemFontOfSize:20 weight:5];
+    UIBarButtonItem *item = [[UIBarButtonItem alloc]initWithCustomView:butn];
+    
+    UIButton *butn1 = [UIButton buttonWithType:UIButtonTypeCustom];
+    butn1.frame = CGRectMake(0, 0, 230, 26);
+    butn1.backgroundColor = [UIColor whiteColor];
+    butn1.layer.cornerRadius = 11;
+    butn1.clipsToBounds = YES;
+    UIBarButtonItem *item1 = [[UIBarButtonItem alloc]initWithCustomView:butn1];
+    self.navigationItem.leftBarButtonItems = @[item,item1];
+    
+   
+}
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    
+}
+
+
+
+@end

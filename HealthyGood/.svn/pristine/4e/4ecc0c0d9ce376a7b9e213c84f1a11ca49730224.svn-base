@@ -1,0 +1,29 @@
+//
+//  MyPageViewController.m
+//  HealthyGood
+//
+//  Created by Qianfeng on 16/2/24.
+//  Copyright © 2016年 ZhouShuYang. All rights reserved.
+//
+
+#import "MyPageViewController.h"
+
+@interface MyPageViewController ()
+
+@end
+
+@implementation MyPageViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    self.view.backgroundColor =[UIColor whiteColor];
+    
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+   
+}
+
+
+@end

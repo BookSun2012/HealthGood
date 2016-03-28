@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_collection</string>
+		<key>title</key>
+		<string>我的订阅</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_message</string>
+		<key>title</key>
+		<string>我的位置</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_push</string>
+		<key>title</key>
+		<string>新闻推送</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_history</string>
+		<key>title</key>
+		<string>最近阅读</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_activity</string>
+		<key>title</key>
+		<string>最新活动</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_app</string>
+		<key>title</key>
+		<string>应用推荐</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_setting</string>
+		<key>title</key>
+		<string>个人设置</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>personal_icon_night</string>
+		<key>title</key>
+		<string>夜间模式</string>
+	</dict>
+</array>
+</plist>
