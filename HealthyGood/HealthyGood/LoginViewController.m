@@ -2,7 +2,7 @@
 //  LoginViewController.m
 //  HealthyGood
 //
-//  Created by Qianfeng on 16/3/5.
+//  Created by Qianfengzhoushuyang on 16/3/5.
 //  Copyright © 2016年 ZhouShuYang. All rights reserved.
 //
 

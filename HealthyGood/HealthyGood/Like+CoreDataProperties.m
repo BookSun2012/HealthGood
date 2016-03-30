@@ -2,7 +2,7 @@
 //  Like+CoreDataProperties.m
 //  
 //
-//  Created by Qianfeng on 16/3/13.
+//  Created by  on 16/3/13.
 //
 //
 //  Choose "Create NSManagedObject Subclass…" from the Core Data editor menu

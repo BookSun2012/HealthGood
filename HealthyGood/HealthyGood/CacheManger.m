@@ -2,7 +2,7 @@
 //  CacheManger.m
 //  LimitFreeApp
 //
-//  Created by Qianfeng on 16/2/18.
+//  Created by zhoushuyang on 16/2/18.
 //  Copyright © 2016年 zhoushuyang. All rights reserved.
 //
 
@@ -25,6 +25,7 @@
     }
 //    NSLog(@"沙盒中的缓存路径%@",cacheDir);
     return cacheDir;
+    
 }
 
 //返回指定URL 数据保存的全部路径

@@ -2,7 +2,7 @@
 //  NSString+AttributeStyle.m
 //  AttributeString
 //
-//  Created by Qianfeng on 16/2/27.
+//  Created by zhouhsuyang on 16/2/27.
 //  Copyright © 2016年 ZhouShuYang. All rights reserved.
 //
 

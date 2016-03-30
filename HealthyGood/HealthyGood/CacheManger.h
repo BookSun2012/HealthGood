@@ -2,7 +2,7 @@
 //  CacheManger.h
 //  LimitFreeApp
 //
-//  Created by Qianfeng on 16/2/18.
+//  Created by zhoushuyang on 16/2/18.
 //  Copyright © 2016年 zhoushuyang. All rights reserved.
 //
 

@@ -2,8 +2,7 @@
 //  Like.m
 //  
 //
-//  Created by Qianfeng on 16/3/13.
-//
+
 //
 
 #import "Like.h"
